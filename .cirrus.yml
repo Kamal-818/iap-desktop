@@ -1,0 +1,6 @@
+windows_container:
+  cpu: 30
+  memory: 24G
+
+task:
+  script: dxdiag
